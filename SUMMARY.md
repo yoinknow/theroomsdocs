@@ -11,6 +11,3 @@
 ## Community
 
 * [Links and Social](community.md)
-* [Livestreams](README.md#-live-development)
-* [Roadmap](README.md#-roadmap)
-* [Feedback](README.md#-we-want-your-feedback)
