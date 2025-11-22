@@ -24,31 +24,18 @@ TheRooms features 8 distinct room layouts, each designed for different play styl
 | Suite | 13×7 | Wide T | Grand designs |
 
 ### Room Features
-- **Grid-based building**: Furniture snaps to a grid for clean placement
-- **Customizable colors**: Change floor and wall colors
-- **Named spaces**: Give your room a unique name
-- **Persistent state**: Your room saves automatically
-- **Physics-enabled**: Realistic collisions and interactions
-
-### Spawn System
-- Players spawn at Y=1.5 height for safe drop
-- Spawn points near room doors (X=0.5)
-- Auto-respawn if falling detected (below Y=-3)
-- Room-specific spawn coordinates
+- **Easy Building**: Furniture snaps into place for clean layouts
+- **Customizable**: Change floor and wall colors to match your style
+- **Personal Touch**: Give your room a unique name
+- **Auto-Save**: Your room saves automatically
 
 ## 🎭 Character System
 
-### Character Models
-- **45+ models** available
-- Includes male and female options
+### Character Selection
+- **45+ models** to choose from
+- Male and female options
 - Various styles: Casual, Business, Themed
-- Full animation support (Idle, Walk, more coming)
-
-### Character Features
-- **Smooth animations**: Seamless transitions between states
-- **Physics-based movement**: Realistic collision and walking
-- **Customization**: Easy character switching
-- **Scale optimized**: Characters sized at 0.7 scale for perfect proportions
+- Smooth animations and natural movement
 
 ## 🪑 Furniture & Placement
 
@@ -75,50 +62,24 @@ TheRooms features 8 distinct room layouts, each designed for different play styl
 ## 🎮 Movement & Controls
 
 ### Player Movement
-- **Walk speed**: 3.5 units/second
-- **Sprint speed**: 6.0 units/second (coming soon)
+- **Smooth Walking**: Natural character movement
+- **Sprint**: Coming soon
 - **Jump**: Planned feature
-- **Smooth rotation**: Character faces movement direction
-- **Climb prevention**: Realistic collision boundaries
-
-### Physics Properties
-- Friction: 3 (prevents sliding)
-- Gravity scale: 1.5 (natural feel)
-- Ground detection: 1.0 unit raycast
-- Fall protection: Auto-reset below Y=-3
+- **Auto-Rotation**: Character faces movement direction
 
 ## 🤖 NPC System
 
 ### NPC Behavior
-- **Autonomous movement**: NPCs wander randomly within range
-- **State machine**: Idle → Walk → Idle cycle
-- **Idle duration**: 3 seconds
-- **Walk duration**: 4 seconds
-- **Walk speed**: 1.5 units/second
-
-### NPC Features
-- Full animation support (Idle, Walk)
-- Collision detection
-- Random pathfinding within 4-unit radius
-- Character model variety
+- **Living World**: NPCs wander and interact naturally
+- **Variety**: Different character models and personalities
+- **Animated**: Smooth idle and walking animations
 
 ## 📹 Camera System
 
 ### Isometric View
-- Fixed isometric perspective
+- Classic Habbo-style camera angle
 - Optimized for each room type
-- Smooth camera transitions
-
-### Room-Specific Settings
-Each room has custom camera positioning:
-- **Distance**: How far the camera is from the room
-- **Angle**: Camera rotation for best view
-- **Height**: Vertical offset for optimal framing
-
-### Debug Mode
-- Toggle collision visualization
-- See floor boundaries
-- Useful for placement testing
+- Smooth camera experience
 
 ## 💬 Chat System
 
@@ -148,38 +109,19 @@ Each room has custom camera positioning:
 - Weather/time of day
 - Music and ambiance
 
-## 💾 State Management
+## 💾 Auto-Save
 
 ### What Gets Saved
-- Room settings (name, colors)
-- Furniture placement and positions
+- Room settings and colors
+- Furniture placement
 - Selected character
-- Player position
-- Interaction history
+- Everything saves automatically - no manual saves needed!
 
-### Storage
-- **localStorage** for browser persistence
-- Automatic save on changes
-- No manual save needed
+## 🌐 Browser Support
 
-## 🔧 Technical Features
-
-### Performance
-- Optimized 3D rendering
-- Efficient physics calculations
-- Asset loading management
-- Smooth 60 FPS target
-
-### Cross-Browser Support
-- Chrome ✅
-- Firefox ✅
-- Safari ✅
-- Edge ✅
-
-### Responsive Design
+- Works on Chrome, Firefox, Safari, and Edge
 - Desktop optimized
-- Mobile support in progress
-- Touch controls planned
+- Mobile support coming soon
 
 ## 🚀 Coming Soon
 

@@ -28,20 +28,13 @@ We're in **active development** and building this project live! Here's what's wo
 
 ### ✅ Implemented Features
 - **8 Unique Room Types**: Small, Medium, Large, Studio, L-Shape, Penthouse, Loft, and Suite - each with unique layouts (L-shapes, T-shapes, Plus configurations)
-- **Character System**: 45+ character models with smooth animations (idle, walk)
-- **Physics-Based Movement**: Realistic collision detection and player movement using Rapier physics
-- **Furniture Placement**: Grid-based system for placing and arranging furniture items
+- **Character System**: 45+ character models with smooth animations
+- **Realistic Movement**: Natural collision detection and player movement
+- **Furniture Placement**: Easy drag-and-drop system for arranging furniture
 - **Isometric Camera**: Smooth camera controls optimized for each room type
 - **Chat System**: Real-time communication between players
 - **State Persistence**: Your room settings and furniture arrangements save automatically
 - **NPC System**: Interactive NPCs that wander around rooms
-
-### 🛠️ Tech Stack
-- **Frontend**: Next.js 15 + React 19
-- **3D Rendering**: Three.js + React Three Fiber
-- **Physics**: Rapier physics engine
-- **State Management**: Zustand with localStorage persistence
-- **Styling**: Tailwind CSS
 
 ## 📺 Live Development
 
