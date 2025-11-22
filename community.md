@@ -1,4 +1,4 @@
-# Community & Social
+# Links and Social
 
 Join the TheRooms community and stay connected!
 

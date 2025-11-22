@@ -110,7 +110,7 @@ We're building TheRooms to be:
 - [Getting Started](getting-started.md) - Set up and play the game
 - [Features Guide](features.md) - Detailed overview of all features
 - [What's Next?](whats-next.md) - Upcoming tasks and priorities
-- [Community & Social](community.md) - Join our community and stay connected
+- [Links and Social](community.md) - Join our community and stay connected
 
 ## 🌐 Community & Links
 
