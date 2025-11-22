@@ -6,9 +6,12 @@
 
 * [Getting Started](getting-started.md)
 * [Features Guide](features.md)
+* [What's Next?](whats-next.md)
 
 ## Community
 
+* [Community & Social](community.md)
 * [Livestreams](README.md#-live-development)
 * [Roadmap](README.md#-roadmap)
 * [Feedback](README.md#-we-want-your-feedback)
+* [Links & Socials](README.md#-community--links)

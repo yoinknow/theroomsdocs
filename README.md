@@ -49,6 +49,7 @@ Join us to:
 ## 🗺️ Roadmap
 
 ### Short Term (Next Weeks)
+- [ ] Deploy a basic demo
 - [ ] Multiplayer synchronization
 - [ ] More furniture items and categories
 - [ ] Enhanced NPC interactions and dialogue
@@ -92,8 +93,7 @@ This is a community-driven project, and your input matters! We're looking for fe
 
 ### How to Contribute Feedback
 - Watch our livestreams and comment in real-time
-- Open issues on our GitHub repository
-- Join discussions in our community channels
+- Join discussions in our telegram
 - Test the game and report bugs
 
 ## 🎯 Our Vision
@@ -109,6 +109,21 @@ We're building TheRooms to be:
 
 - [Getting Started](getting-started.md) - Set up and play the game
 - [Features Guide](features.md) - Detailed overview of all features
+- [What's Next?](whats-next.md) - Upcoming tasks and priorities
+- [Community & Social](community.md) - Join our community and stay connected
+
+## 🌐 Community & Links
+
+- **Website**: [theroomssol.fun](https://theroomssol.fun)
+- **Documentation**: [docs.theroomssol.fun](https://docs.theroomssol.fun/)
+- **Twitter/X**: [x.com/theroomsfun](https://x.com/theroomsfun) ⚠️ **Official Source**
+- **Telegram**: TBA
+- **Livestream**: TBA
+- **Contract Address** (Pump): TBA
+
+> **⚠️ IMPORTANT**: For official confirmation of contract addresses and other details, **ALWAYS check our Twitter**: [x.com/theroomsfun](https://x.com/theroomsfun). Any contract address (CA) NOT shared on our official Twitter does NOT belong to us. Beware of scams!
+
+> **Note**: Some links and the contract address will only be available after we deploy. If you're seeing this right after launch, please check back soon - we update these manually and it may take a little time!
 
 ---
 
