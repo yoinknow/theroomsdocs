@@ -2,6 +2,10 @@
 
 Welcome to TheRooms! This guide will help you jump in and start exploring.
 
+<div align="center">
+  <img src="images/Screenshot 2025-11-17 002530.png" alt="Getting Started" width="500"/>
+</div>
+
 ## 🎮 How to Play
 
 ### First Time Setup
@@ -40,6 +44,11 @@ TheRooms offers 8 different room layouts:
 8. **Suite** (Wide T): Expansive T-shaped suite for grand designs
 
 Each room has unique dimensions and spawn points optimized for gameplay.
+
+<div align="center">
+  <img src="images/Screenshot 2025-11-17 014317.png" alt="Room Types" width="500"/>
+  <p><em>Different room layouts for different play styles</em></p>
+</div>
 
 ## 🪑 Placing Furniture
 

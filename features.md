@@ -2,6 +2,10 @@
 
 Comprehensive overview of all TheRooms features and systems.
 
+<div align="center">
+  <img src="images/Screenshot 2025-11-17 020355.png" alt="Features Overview" width="500"/>
+</div>
+
 ## 🏗️ Room System
 
 ### Room Types
@@ -62,6 +66,11 @@ TheRooms features 8 distinct room layouts, each designed for different play styl
 - Storage
 
 *More categories coming soon!*
+
+<div align="center">
+  <img src="images/Screenshot 2025-11-17 033526.png" alt="Furniture Placement" width="500"/>
+  <p><em>Grid-based furniture placement system</em></p>
+</div>
 
 ## 🎮 Movement & Controls
 

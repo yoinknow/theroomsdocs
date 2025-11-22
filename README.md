@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/theroomslogo.png" alt="TheRooms Logo" width="400"/>
+</div>
+
 # TheRooms
 
 Welcome to **TheRooms** - a social metaverse building game inspired by Habbo Hotel, built with cutting-edge web technologies.
@@ -12,6 +16,11 @@ TheRooms is a browser-based 3D social space where players can:
 - Socialize and chat with the community
 
 Think Habbo Hotel meets modern web3 gaming - accessible directly in your browser with no downloads required.
+
+<div align="center">
+  <img src="images/Screenshot 2025-11-17 043335.png" alt="TheRooms Gameplay" width="600"/>
+  <p><em>Explore unique room layouts with your customized character</em></p>
+</div>
 
 ## 🚀 Current State
 
