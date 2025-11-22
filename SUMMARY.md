@@ -7,10 +7,6 @@
 * [Getting Started](getting-started.md)
 * [Features Guide](features.md)
 
-## Development
-
-* [Development Guide](development.md)
-
 ## Community
 
 * [Livestreams](README.md#-live-development)

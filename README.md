@@ -109,7 +109,6 @@ We're building TheRooms to be:
 
 - [Getting Started](getting-started.md) - Set up and play the game
 - [Features Guide](features.md) - Detailed overview of all features
-- [Development](development.md) - Technical documentation for contributors
 
 ---
 
